@@ -17,7 +17,7 @@ namespace Git_Test
                 Console.WriteLine("Git Test");
                
             }
-            
+            Console.WriteLine(counter);
         }
     }
 }
